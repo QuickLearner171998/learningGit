@@ -7,3 +7,6 @@
  edit 1
  
  ## Stashing
+ 
+ ## rset and reflog
+ changes after addinfg
